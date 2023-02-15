@@ -1,0 +1,15 @@
+D:\семинар по контролю версий\HW_ C#_7\task3\bin\Debug\net6.0\task3.exe
+D:\семинар по контролю версий\HW_ C#_7\task3\bin\Debug\net6.0\task3.deps.json
+D:\семинар по контролю версий\HW_ C#_7\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+D:\семинар по контролю версий\HW_ C#_7\task3\bin\Debug\net6.0\task3.dll
+D:\семинар по контролю версий\HW_ C#_7\task3\bin\Debug\net6.0\task3.pdb
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.dll
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\refint\task3.dll
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.pdb
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+D:\семинар по контролю версий\HW_ C#_7\task3\obj\Debug\net6.0\ref\task3.dll
